@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)]
+
 
 <h1 align="center">Hi 👋, I'm Hitesh Tarwani</h1>
 <h3 align="center">Full Stack Web Developer</h3>
