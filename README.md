@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/gregarious-chimera-4d9352/overview](https://app.netlify.com/sites/gregarious-chimera-4d9352/overview)
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/gregarious-chimera-4d9352/overview](https://gregarious-chimera-4d9352.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
