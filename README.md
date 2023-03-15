@@ -1,7 +1,6 @@
-<img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/97459069/225276135-cc157328-5151-4da3-8302-00931eb81973.PNG">
-
 <h1 align="center">Hi 👋, I'm Hitesh Tarwani</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/97459069/225276135-cc157328-5151-4da3-8302-00931eb81973.PNG">
 <img align="right" alt="Coding" width="100%" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesht4&label=Profile%20views&color=0e75b6&style=flat" alt="hitesht4" /> </p>
