@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitesh Tarwani</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" alt="Coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesht4&label=Profile%20views&color=0e75b6&style=flat" alt="hitesht4" /> </p>
 
