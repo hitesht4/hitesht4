@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hiteshtarwani2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiteshtarwani2" height="30" width="40" /></a>
-<a href="https://kaggle.com/hitesht4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hitesht4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hitesht4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesht4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitesht4&show_icons=true&locale=en" alt="hitesht4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesht4&" alt="hitesht4" /></p>
+
