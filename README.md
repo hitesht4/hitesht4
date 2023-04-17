@@ -11,7 +11,7 @@
     <a href="https://github.com/hitesht4">
         <img src="https://komarev.com/ghpvc/?username=hitesht4&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat?tab=followers">
+    <a href="https://github.com/hitesht4?tab=followers">
         <img src="https://img.shields.io/github/followers/hitesht4?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
