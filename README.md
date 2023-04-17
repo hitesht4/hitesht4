@@ -74,6 +74,24 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chat App&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
     </a>
 </p>
+
+<h2><i>Let's Connect</i></h2>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/hitesht4/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hitesht4/" />
+    </a>
+    <a href="https://twitter.com/HiteshTarwani2">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/HiteshTarwani2" />
+    </a>
+    <a href="https://hitesht4.github.io/my_portfolio/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://hitesht4.github.io/my_portfolio/" />
+    </a>
+    <a title="mailto:hiteshtarwani@gmail.com" href="mailto:hiteshtarwani@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hiteshtarwani4@gmail.com" />
+    </a>
+</p>
+<br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesht4&show_icons=true&locale=en&layout=compact" alt="hitesht4" /></p>
 <br>
 
