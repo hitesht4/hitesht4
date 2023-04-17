@@ -54,7 +54,6 @@
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesht4&show_icons=true&locale=en&layout=compact" alt="hitesht4" /></p>
 
 <h2><i>My top projects</i></h2>
 
@@ -75,6 +74,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chat App&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
     </a>
 </p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesht4&show_icons=true&locale=en&layout=compact" alt="hitesht4" /></p>
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitesht4&show_icons=true&locale=en" alt="hitesht4" /></p>
