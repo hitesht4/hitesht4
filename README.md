@@ -9,22 +9,16 @@
 
 <p align="left">
     <a href="https://github.com/hitesht4">
-        <img src="https://komarev.com/ghpvc/?username=hitesht4&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+        <img src="https://komarev.com/ghpvc/?username=hitesht4&label=Profile%20views&color=0e75b6&style=flat" alt="hitesht4" />
     </a>
     <a href="https://github.com/hitesht4?tab=followers">
         <img src="https://img.shields.io/github/followers/hitesht4?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitesht4&theme=dark" alt="hitesht4" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitesht4" alt="hitesht4" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hiteshtarwani2" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshtarwani2?logo=twitter&style=for-the-badge" alt="hiteshtarwani2" /></a> </p>
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hiteshtarwani2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiteshtarwani2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hitesht4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesht4" height="30" width="40" /></a>
-</p>
+
 
 <h2><i>Tech Stack</i></h2>
 
