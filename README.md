@@ -19,17 +19,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitesht4&theme=dark" alt="hitesht4" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hiteshtarwani2" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshtarwani2?logo=twitter&style=for-the-badge" alt="hiteshtarwani2" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Web development at Masai School**
-
-- 👨‍💻 All of my projects are available at [https://hitesht4.github.io/my_portfolio/](https://hitesht4.github.io/my_portfolio/)
-
-- 📝 I regularly write articles on [https://medium.com/@hiteshtarwani4](https://medium.com/@hiteshtarwani4)
-
-- 💬 Ask me about **React,Redux,MongoDB,HTML,CSS,Javascript,ExpressJS,NodeJs**
-
-- 📫 How to reach me **hiteshtarwani4@gmail.com**
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hiteshtarwani2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiteshtarwani2" height="30" width="40" /></a>
@@ -103,7 +93,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesht4&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
 </p>
 <br>
+     <img
+                src="https://github-readme-streak-stats.herokuapp.com/?user=hitesht4&theme=dark"
+                alt="streak"
+    />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesht4&them=dark" alt="hitesht4" /></p>
+
 
