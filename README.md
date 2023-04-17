@@ -7,7 +7,14 @@
 </h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesht4&label=Profile%20views&color=0e75b6&style=flat" alt="hitesht4" /> </p>
+<p align="left">
+    <a href="https://github.com/hitesht4">
+        <img src="https://komarev.com/ghpvc/?username=hitesht4&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/m-sehrawat?tab=followers">
+        <img src="https://img.shields.io/github/followers/hitesht4?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitesht4" alt="hitesht4" /></a> </p>
 
