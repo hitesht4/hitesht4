@@ -78,6 +78,29 @@
 </p>
 <br>
 
+<h2><i>Top Repositories</i></h2>
+
+<p>
+   <a href="https://github.com/hitesht4/Bewakoof.com-Clone" target="blank">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Bewakoof.com-Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+    </a>
+        <a href="https://github.com/hitesht4/Clockify_Clone" target="blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Clockify_Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+    </a>
+    <a href="https://github.com/hitesht4/Netflix" target="blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Netflix&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+    </a>
+    <a href="https://github.com/hitesht4/nordstrom" target="blank">
+         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=nordstrom&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+    </a>
+    <a href="https://github.com/hitesht4/react_chat_app" target="blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=react_chat_app&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+    </a>  
+      <a href="https://github.com/hitesht4/Banggood-Clone" target="blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Banggood-Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+    </a>  
+</p>
+
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
