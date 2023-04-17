@@ -56,6 +56,27 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesht4&show_icons=true&locale=en&layout=compact" alt="hitesht4" /></p>
 
+<h2><i>My top projects</i></h2>
+
+<p align="left">
+    <a href="https://github.com/hitesht4/Bewakoof.com-Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bewakoof.com Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
+    </a>
+    <a href="https://github.com/hitesht4/Clockify_Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Clockify Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+    </a>
+    <a href="https://github.com/hitesht4/Netflix" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Netflix Clone&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+    </a>
+    <a href="https://github.com/hitesht4/nordstrom" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nordstrom Clone&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
+    </a>
+    <a href="https://github.com/hitesht4/react_chat_app" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chat App&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
+    </a>
+</p>
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitesht4&show_icons=true&locale=en" alt="hitesht4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesht4&" alt="hitesht4" /></p>
