@@ -93,9 +93,8 @@
     <a href="https://github.com/hitesht4/nordstrom" target="blank">
          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=nordstrom&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>
-   <a href="https://github.com/hitesht4/react_chat_app" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chat App&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
-    </a>
+    <a href="https://github.com/hitesht4/react_chat_app" target="blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=react_chat_app&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>  
       <a href="https://github.com/hitesht4/Banggood-Clone" target="blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Banggood-Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
