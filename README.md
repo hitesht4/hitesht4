@@ -68,7 +68,7 @@
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/HiteshTarwani2" />
     </a>
     <a  href="mailto:hiteshtarwani4@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@hiteshtarwani4" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://medium.com/@hiteshtarwani4" />
     </a>
     <a href="https://hitesht4.github.io/my_portfolio/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white"           alt="https://hitesht4.github.io/my_portfolio/" />
