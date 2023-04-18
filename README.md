@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nordstrom Clone&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
     </a>
     <a href="https://github.com/hitesht4/react_chat_app" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chat App&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chat App&color=1a78f4&logo=whatsapp&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
     </a>
 </p>
 
