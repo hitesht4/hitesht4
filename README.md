@@ -67,13 +67,10 @@
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/HiteshTarwani2" />
     </a>
     <a  href="https://medium.com/@hiteshtarwani4">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="https://medium.com/@hiteshtarwani4" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=medium&logoColor=blue" alt="https://medium.com/@hiteshtarwani4" />
     </a>
     <a href="https://hitesht4.github.io/my_portfolio/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://hitesht4.github.io/my_portfolio/" />
-    </a>
-    <a title="mailto:hiteshtarwani@gmail.com" href="mailto:hiteshtarwani@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hiteshtarwani4@gmail.com" />
     </a>
 </p>
 <br>
@@ -96,9 +93,9 @@
       <a href="https://github.com/hitesht4/Banggood-Clone" target="blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Banggood-Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>  
-<!--     <a href="https://github.com/hitesht4/react_chat_app" target="blank">
+    <a href="https://github.com/hitesht4/react_chat_app" target="blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=react_chat_app&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
-    </a>   -->
+    </a>  
     
 </p>
 
