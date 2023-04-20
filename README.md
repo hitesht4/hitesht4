@@ -76,7 +76,7 @@
 </p>
 <br>
 
-<!-- <h2><i>Top Repositories</i></h2>
+<h2><i>Top Repositories</i></h2>
 
 <p>
    <a href="https://github.com/hitesht4/Bewakoof.com-Clone" target="blank">
@@ -98,7 +98,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=react_chat_app&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>  
     
-</p> -->
+</p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
