@@ -80,22 +80,22 @@
 
 <p>
    <a href="https://github.com/hitesht4/Bewakoof.com-Clone" target="blank">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Bewakoof.com-Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+         <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=Bewakoof.com-Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>
         <a href="https://github.com/hitesht4/Clockify_Clone" target="blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Clockify_Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+        <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=Clockify_Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>
     <a href="https://github.com/hitesht4/Netflix" target="blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Netflix&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+        <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=Netflix&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>
     <a href="https://github.com/hitesht4/nordstrom" target="blank">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=nordstrom&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+         <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=nordstrom&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>
       <a href="https://github.com/hitesht4/Banggood-Clone" target="blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=Banggood-Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+        <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=Banggood-Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>  
     <a href="https://github.com/hitesht4/react_chat_app" target="blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hitesht4&repo=react_chat_app&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+        <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=react_chat_app&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>  
     
 </p>
@@ -106,7 +106,7 @@
 
 <p>
     <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api?username=hitesht4&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="hitesht4" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesht4&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/top-langs/?username=hitesht4&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
 </p>
 <br>
 <!--      <img
