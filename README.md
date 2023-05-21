@@ -91,8 +91,8 @@
     <a href="https://github.com/hitesht4/nordstrom" target="blank">
          <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=nordstrom&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>
-      <a href="https://github.com/hitesht4/Banggood-Clone" target="blank">
-        <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=Banggood-Clone&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
+      <a href="https://github.com/hitesht4/Pizza_app" target="blank">
+        <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=Pizza_app&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
     </a>  
     <a href="https://github.com/hitesht4/react_chat_app" target="blank">
         <img align="center" src="https://github-readme-stats-5v4w.vercel.app/api/pin/?username=hitesht4&repo=react_chat_app&locale=en&border_radius=0&theme=dark" alt="hitesht4" />
